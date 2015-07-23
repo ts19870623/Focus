@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>BlackWidow</string>
+	<key>Age</key>
+	<string>30</string>
+	<key>StarSign</key>
+	<string></string>
+	<key>FavMusic</key>
+	<array>
+		<string>日韩</string>
+		<string>Big Bang</string>
+		<string>Eminem</string>
+	</array>
+	<key>FavSports</key>
+	<array>
+		<string>游戏</string>
+		<string>爬山</string>
+		<string>椭圆仪</string>
+	</array>
+	<key>FavFood</key>
+	<array>
+		<string>北京烤鸭</string>
+		<string>港式早茶</string>
+		<string>韩式烧烤</string>
+	</array>
+	<key>FavMovie</key>
+	<array>
+		<string>盗梦空间</string>
+		<string>冰与火之歌</string>
+		<string>蝙蝠侠</string>
+	</array>
+</dict>
+</plist>
